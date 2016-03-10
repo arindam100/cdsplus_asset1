@@ -36,7 +36,7 @@ import com.mongodb.MongoException;
 import com.mongodb.gridfs.GridFS;
 import com.mongodb.gridfs.GridFSDBFile;
 import com.mongodb.gridfs.GridFSInputFile;
-import javax.ws.rs.WebApplicationException;
+/*import javax.ws.rs.WebApplicationException;
 
 public class CgsServiceImpl extends AbstractGenericService {
 	
